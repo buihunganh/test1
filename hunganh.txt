@@ -1,0 +1,86 @@
+<!-- Header --> 
+    <header class="header">
+        <div class="header-top">
+            <div class="container">
+                <div class="inner-logo">
+                    <a href="/">
+                        <img src="./assets/imagesheader/logo.png" alt="Logo">
+                    </a>
+                    <div class="form">
+                        <form action="/" target="_blank" method="post">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <input name="Tim Kiem:" type="text" placeholder="Bạn muốn gì hôm nay...">
+                        </form>
+                    </div>
+                </div>
+                <div class="inner-social">
+                    <a href="/" target="_blank" class="a-ship">
+                        <img src="./assets/imagesheader/logoshipper.png" alt="Logo">
+                        <p>Chọn Phương Thức Nhận Hàng</p>
+                    </a>
+                    <ul>
+                        <li>
+                            <a href="#" target="_blank" title="Email">
+                              <i class="fa-regular fa-envelope"></i>
+                            </a>
+                          </li>
+                          <li>
+                            <a href="./login.html" target="_blank" title="User Profile">
+                              <i class="fa-regular fa-user"></i>
+                            </a>
+                          </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="header-main">
+            <div class="container">
+                <ul>
+                    <li>
+                        <a href="#" target="_blank">
+                            TRANG CHỦ
+                        </a>
+                    </li>
+                    <li>
+                        <a href="menu.html" target="_blank">
+                            MENU
+                            <div class="submenu">
+                                <div>THỨC UỐNG</div>
+                                <ul>
+                                    <li>Best seller</li>
+                                    <li>Bst kim cúc mộc tê</li>
+                                    <li>Trà trái cây</li>
+                                    <li>Trà sữa</li>
+                                    <li>Kem silky</li>
+                                    <li>Cà phê</li>
+                                    <li>Đá xay</li>
+                                </ul>
+                                <div>BÁNH</div>
+                                <ul>
+                                    <li>Bánh lạnh</li>
+                                    <li>Bánh cookies - croissant</li>
+                                    <li>Bánh mì</li>
+                                </ul>
+                                <div>BST LY GẤU GIÁNG SINH</div>
+                                <ul>
+                                    <li>Combo ly gấu và nước 169k</li>
+                                    <li>Ly gấu 149k</li>
+                                </ul>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" target="_blank">
+                            VỀ CHÚNG TÔI
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" target="_blank">
+                            KHUYẾN MÃI
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <!-- End Header -->
